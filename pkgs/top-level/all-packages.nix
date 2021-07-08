@@ -3108,6 +3108,8 @@ in
 
   ocrfeeder = callPackage ../applications/graphics/ocrfeeder { };
 
+  oculante = callPackage ../applications/graphics/oculante { };
+
   onboard = callPackage ../applications/misc/onboard { };
 
   oneshot = callPackage ../tools/networking/oneshot { };
